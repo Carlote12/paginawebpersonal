@@ -1,0 +1,20 @@
+h1{
+    font-family:cursive;
+    font-style: italic;
+
+}
+
+h2{
+    color: brown;
+    font-family: cursive;
+}
+
+p{
+    font-family: cursive;
+    font-style: oblique;
+    font-size: larger;
+}
+
+body{
+    text-align: center;
+}
