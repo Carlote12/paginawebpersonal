@@ -5,7 +5,7 @@ h1{
 }
 
 h2{
-    color: brown;
+    color: crimson;
     font-family: cursive;
 }
 
@@ -13,8 +13,17 @@ p{
     font-family: cursive;
     font-style: oblique;
     font-size: larger;
+    color: black;
 }
 
 body{
-    text-align: center;
+    text-align: left;
 }
+
+ .fotoperfil2{
+width: 40%;
+ }
+ 
+ .logo de hackclub{
+    text-align: right;
+ }
