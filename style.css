@@ -18,6 +18,7 @@ p{
 
 body{
     text-align: left;
+    color:black;
 }
 
  .fotoperfil2{
@@ -25,5 +26,6 @@ width: 40%;
  }
  
  .logo de hackclub{
-    text-align: right;
+position: inherit;
  }
+    
