@@ -43,7 +43,7 @@ header h1 {
     font-size: 1.5em; /* Hacer el texto más grande */
 }
 
-.star-hunter-btn {
+.star-hunter-btn, .memorama-btn {
     background-color: #39FF14; /* Color de fondo verde neón */
     color: black; /* Color del texto */
     font-family: 'Roboto Mono', monospace; /* Aplicar la fuente de programación */
@@ -52,7 +52,8 @@ header h1 {
     border: none; /* Sin borde */
     border-radius: 5px; /* Bordes redondeados */
     cursor: pointer; /* Cambiar el cursor al pasar sobre el botón */
-    margin-top: 10px; /* Espacio entre el texto y el botón */
+    margin-top: 10px; /* Espacio entre el texto y los botones */
+    margin-right: 10px; /* Espacio entre los botones */
 }
 
 h1 {
