@@ -33,7 +33,14 @@ header h1 {
 
 .bottom-section {
     display: flex;
-    align-items: center;
+    align-items: flex-start; /* Alinear al inicio */
+    margin-top: 20px; /* Mover la sección un poco más arriba */
+}
+
+.description {
+    margin-left: 20px; /* Espacio entre la imagen y el texto */
+    color: #39FF14; /* Color verde neón para el texto */
+    font-size: 1.5em; /* Hacer el texto más grande */
 }
 
 .star-hunter-btn {
@@ -45,7 +52,7 @@ header h1 {
     border: none; /* Sin borde */
     border-radius: 5px; /* Bordes redondeados */
     cursor: pointer; /* Cambiar el cursor al pasar sobre el botón */
-    margin-left: 20px; /* Espacio entre la imagen y el botón */
+    margin-top: 10px; /* Espacio entre el texto y el botón */
 }
 
 h1 {
@@ -71,5 +78,5 @@ p {
     font-family: 'Roboto Mono', monospace;
     font-style: oblique;
     font-size: larger;
-    color: black;
+    color:  #39FF14;
 }
